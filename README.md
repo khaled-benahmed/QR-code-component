@@ -24,28 +24,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![image](https://user-images.githubusercontent.com/64180671/151044934-b6e8d98e-1f47-4a38-9b9c-af73a9581c35.png)
 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
-## Overview
-
-### Screenshot
-
-![](./screenshot.jpg)
-![](./mobile-preview.jpg)
-
-
 ### Links
 
 - Solution URL: (https://github.com/Arekkusu17/QR-code-component-challenge)
@@ -60,31 +38,22 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-For me it was very dificult to choose the right properties in css to get the body and the .card to work and be seen as the style guide declared.
+For me it was very dificult to choose the right properties in css to get the body and the card to work and be seen as the style guide declared.
 
 At the end, i believe i did a good job with the things that i used.
 
 ```css
-.body {
-	background-color: hsl(212, 45%, 89%);
-	font-size: 15px;
-	font-family: 'Outfit', sans-serif;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	margin: 4rem;
+.first{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    position:absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 20px;
 }
-
-.card {
-	background-color: hsl(0, 0%, 100%);
-	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-	border-radius: 0.625rem;
-	width: 200px;
-	padding: 0.9rem;
-	margin-bottom: 1rem;
-}
-
 ```
 
 ### Useful resources
