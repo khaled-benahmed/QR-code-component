@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+ 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,9 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![image](https://user-images.githubusercontent.com/64180671/151044934-b6e8d98e-1f47-4a38-9b9c-af73a9581c35.png)
 
-### Links
 
-- Solution URL: (https://github.com/Arekkusu17/QR-code-component-challenge)
 ## My process
 
 ### Built with
