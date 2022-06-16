@@ -61,7 +61,7 @@ At the end, i believe i did a good job with the things that i used.
 ## Author
 
 - Frontend Mentor - [@khaled-benahmed](https://www.frontendmentor.io/profile/khaled-benahmed)
-- Twitter - [@@khaledb93550140](https://twitter.com/khaledb93550140)
+- Twitter - [@khaledb93550140](https://twitter.com/khaledb93550140)
 
 
 ## Acknowledgments
